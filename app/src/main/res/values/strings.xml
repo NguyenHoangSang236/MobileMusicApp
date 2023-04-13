@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- music_player strings -->
+
+	<string name="app_name">UI Design</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="bank_account_string">Bank Account</string>
+	<string name="_21_savage_string">21 Savage</string>
+	<string name="_01_35_string">01:35</string>
+	<string name="__02_32_string">-02:32</string>
+
+	<string name="_5_seconds_of_summer_string">5 Seconds of Summer</string>
+	<string name="youngblood_string">Youngblood</string>
+	<string name="missy_higgins_string">Missy Higgins</string>
+	<string name="solastalgia_string">Solastalgia</string>
+	<string name="ariana_grande_string">Ariana Grande</string>
+	<string name="sweetener_string">Sweetener</string>
+	<string name="mabel_string">Mabel</string>
+	<string name="mad_love_string">Mad love</string>
+	<string name="playlist__56__string">Song list</string>
+</resources>

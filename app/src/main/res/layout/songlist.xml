@@ -1,0 +1,346 @@
+<androidx.constraintlayout.widget.ConstraintLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content" >
+
+	<RelativeLayout android:id="@+id/songlist"
+		android:layout_width="wrap_content"
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_playlist_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__playlist_ek2"
+					android:background="@drawable/_bg__playlist_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="705dp"
+					android:layout_height="689dp" />
+
+
+				<RelativeLayout android:id="@+id/_4"
+					android:layout_marginTop="370dp"
+					android:layout_marginStart="45dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+
+					<RelativeLayout
+						android:id="@+id/group_153"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_marginStart="20dp"
+						android:layout_marginTop="0dp"
+						android:layout_toEndOf="@+id/image_16">
+
+
+						<RelativeLayout
+							android:id="@+id/group_147"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp">
+
+							<TextView
+								android:id="@+id/_5_seconds_of_summer"
+								android:layout_width="316dp"
+								android:layout_height="43dp"
+								android:layout_marginLeft="0dp"
+								android:layout_marginTop="25dp"
+								android:fontFamily="sans-serif"
+								android:text="@string/_5_seconds_of_summer_string"
+								android:textColor="@color/_5_seconds_of_summer_color"
+								android:textSize="18sp" />
+
+							<TextView
+								android:id="@+id/youngblood"
+								android:layout_width="243dp"
+								android:layout_height="25dp"
+								android:layout_marginLeft="0dp"
+								android:layout_marginTop="0dp"
+								android:fontFamily="sans-serif"
+								android:text="@string/youngblood_string"
+								android:textColor="@color/youngblood_color"
+								android:textSize="20sp" />
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+
+					<ImageView android:id="@+id/image_16"
+						android:src="@drawable/image_16"
+						android:contentDescription="image_16"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="65dp"
+						android:layout_height="65dp" />
+
+				</RelativeLayout>
+
+				<RelativeLayout android:id="@+id/_5"
+					android:layout_marginTop="460dp"
+					android:layout_marginStart="45dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+
+					<RelativeLayout
+						android:id="@+id/group_154"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_marginTop="0dp">
+
+
+						<RelativeLayout
+							android:id="@+id/group_148"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_marginStart="86dp"
+							android:layout_marginTop="0dp">
+
+							<TextView
+								android:id="@+id/_21_savage"
+								android:layout_width="316dp"
+								android:layout_height="43dp"
+								android:layout_marginLeft="0dp"
+								android:layout_marginTop="25dp"
+								android:fontFamily="sans-serif"
+								android:text="@string/_21_savage_string"
+								android:textColor="@color/_5_seconds_of_summer_color"
+								android:textSize="18sp" />
+
+							<TextView
+								android:id="@+id/bank_account"
+								android:layout_width="243dp"
+								android:layout_height="25dp"
+								android:layout_marginLeft="0dp"
+								android:layout_marginTop="0dp"
+								android:fontFamily="sans-serif"
+								android:text="@string/bank_account_string"
+								android:textColor="@color/youngblood_color"
+								android:textSize="20sp" />
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+
+					<ImageView android:id="@+id/bank_account_img"
+						android:src="@drawable/bank_account_img"
+						android:contentDescription="bank_account_img"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="65dp"
+						android:layout_height="65dp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/_3"
+					android:layout_marginTop="280dp"
+					android:layout_marginStart="45dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+
+					<RelativeLayout
+						android:id="@+id/group_152"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_marginStart="20dp"
+						android:layout_marginTop="0dp"
+						android:layout_toEndOf="@+id/image_15">
+
+
+						<RelativeLayout
+							android:id="@+id/group_147_ek1"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp">
+
+							<TextView
+								android:id="@+id/missy_higgins"
+								android:layout_width="204dp"
+								android:layout_height="43dp"
+								android:layout_marginLeft="0dp"
+								android:layout_marginTop="25dp"
+								android:fontFamily="sans-serif"
+								android:text="@string/missy_higgins_string"
+								android:textColor="@color/_5_seconds_of_summer_color"
+								android:textSize="18sp" />
+
+							<TextView
+								android:id="@+id/solastalgia"
+								android:layout_width="229dp"
+								android:layout_height="25dp"
+								android:layout_marginLeft="0dp"
+								android:layout_marginTop="0dp"
+								android:fontFamily="sans-serif"
+								android:text="@string/solastalgia_string"
+								android:textColor="@color/youngblood_color"
+								android:textSize="20sp" />
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+					<ImageView android:id="@+id/image_15"
+						android:src="@drawable/image_15"
+						android:contentDescription="image_15"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="65dp"
+						android:layout_height="65dp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/_2"
+					android:layout_marginTop="190dp"
+					android:layout_marginStart="45dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+
+					<RelativeLayout
+						android:id="@+id/group_151"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_marginStart="20dp"
+						android:layout_marginTop="0dp"
+						android:layout_toEndOf="@+id/image_14">
+
+
+						<RelativeLayout
+							android:id="@+id/group_147_ek2"
+							android:layout_width="wrap_content"
+							android:layout_height="wrap_content"
+							android:layout_marginStart="0dp"
+							android:layout_marginTop="0dp">
+
+							<TextView
+								android:id="@+id/ariana_grande"
+								android:layout_width="217dp"
+								android:layout_height="43dp"
+								android:layout_marginLeft="0dp"
+								android:layout_marginTop="25dp"
+								android:fontFamily="sans-serif"
+								android:text="@string/ariana_grande_string"
+								android:textColor="@color/_5_seconds_of_summer_color"
+								android:textSize="18sp" />
+
+							<TextView
+								android:id="@+id/sweetener"
+								android:layout_width="221dp"
+								android:layout_height="25dp"
+								android:layout_marginLeft="0dp"
+								android:layout_marginTop="0dp"
+								android:fontFamily="sans-serif"
+								android:text="@string/sweetener_string"
+								android:textColor="@color/youngblood_color"
+								android:textSize="20sp" />
+
+						</RelativeLayout>
+
+					</RelativeLayout>
+
+					<ImageView android:id="@+id/image_14"
+						android:src="@drawable/image_14"
+						android:contentDescription="image_14"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="65dp"
+						android:layout_height="65dp" />
+
+						</RelativeLayout>
+
+
+					</RelativeLayout>
+
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/_1"
+					android:layout_marginTop="100dp"
+					android:layout_marginStart="45dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+
+					<RelativeLayout
+						android:id="@+id/group_147_ek3"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_marginStart="20dp"
+						android:layout_marginTop="0dp"
+						android:layout_toEndOf="@+id/image_13">
+
+						<TextView
+							android:id="@+id/mabel"
+							android:layout_width="108dp"
+							android:layout_height="43dp"
+							android:layout_marginLeft="0dp"
+							android:layout_marginTop="25dp"
+							android:fontFamily="sans-serif"
+							android:text="@string/mabel_string"
+							android:textColor="@color/_5_seconds_of_summer_color"
+							android:textSize="18sp" />
+
+						<TextView
+							android:id="@+id/mad_love"
+							android:layout_width="194dp"
+							android:layout_height="25dp"
+							android:layout_marginLeft="0dp"
+							android:layout_marginTop="0dp"
+							android:fontFamily="sans-serif"
+							android:text="@string/mad_love_string"
+							android:textColor="@color/youngblood_color"
+							android:textSize="20sp" />
+
+					</RelativeLayout>
+
+					<ImageView android:id="@+id/image_13"
+						android:src="@drawable/image_13"
+						android:contentDescription="image_13"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="65dp"
+						android:layout_height="65dp" />
+
+				</RelativeLayout>
+
+
+
+				<TextView
+					android:id="@+id/playlist__56_"
+					android:layout_width="150dp"
+					android:layout_height="25dp"
+					android:layout_marginLeft="45dp"
+					android:layout_marginTop="32dp"
+					android:fontFamily="sans-serif"
+					android:text="@string/playlist__56__string"
+					android:textColor="@color/youngblood_color"
+					android:textSize="20sp" />
+
+
+			</RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

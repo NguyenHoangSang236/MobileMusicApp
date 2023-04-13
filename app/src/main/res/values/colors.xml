@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- music_player colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+	<color name="purple_200">#FFBB86FC</color>
+	<color name="purple_500">#FF6200EE</color>
+	<color name="purple_700">#FF3700B3</color>
+	<color name="teal_200">#FF03DAC5</color>
+	<color name="teal_700">#FF018786</color>
+	<color name="black">#FF000000</color>
+	<color name="white">#FFFFFFFF</color>
+
+	<color name="_bg__music_player_ek2_color">#131313</color>
+	<color name="bank_account_color">#FFFFFF</color>
+	<color name="ellipse_14_color">#191919</color>
+	<color name="_01_35_color">#929292</color>
+	<color name="rectangle_1186_color">#2D2D2D</color>
+
+	<color name="_bg__playlist_ek2_color">#1A1720</color>
+	<color name="_5_seconds_of_summer_color">#9BA5AF</color>
+	<color name="youngblood_color">#FFFFFF</color>
+	<color name="rectangle_35_color">#2B232D</color>
+	<color name="rectangle_40_color">#342A38</color>
+	<color name="rectangle_41_color">#7B6C82</color>
+</resources>
